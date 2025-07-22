@@ -14,7 +14,7 @@ This is a simple AI-based chatbot built using Python, Tkinter for GUI, and pytts
 - 🔇 Mute/Unmute voice toggle
 - 🗂️ Easy-to-edit `intents.json` for adding new training data
 
----
+
 
 
 
