@@ -1,0 +1,44 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good day", "What's up?", "Howdy"],
+      "responses": ["Hello!", "Hi there!", "Greetings!", "Hey! How can I help?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Catch you later", "Farewell"],
+      "responses": ["Goodbye!", "See you soon!", "Take care!", "Have a great day!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "Much appreciated", "Thanks a lot"],
+      "responses": ["You're welcome!", "No problem!", "Glad to help!", "Anytime!"]
+    },
+    {
+      "tag": "hours",
+      "patterns": ["What are your hours?", "When are you open?", "Opening hours?", "Business hours?"],
+      "responses": ["We’re open every day from 9am to 9pm.", "Our working hours are 9am to 9pm daily."]
+    },
+    {
+      "tag": "location",
+      "patterns": ["Where are you located?", "What is your address?", "Location please"],
+      "responses": ["We’re located at 123 Main Street, New York.", "You can find us at 123 Main Street."]
+    },
+    {
+      "tag": "services",
+      "patterns": ["What services do you offer?", "Tell me your services", "What can you do?"],
+      "responses": ["We offer chatbot development, website design, and automation services."]
+    },
+    {
+      "tag": "creator",
+      "patterns": ["Who created you?", "Who built you?", "Your creator?"],
+      "responses": ["I was created by Lahari!", "My creator is Lahari, a skilled developer!"]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": ["I'm not sure I understand. Can you rephrase?", "Sorry, I didn't get that. Try asking something else."]
+    }
+  ]
+}
