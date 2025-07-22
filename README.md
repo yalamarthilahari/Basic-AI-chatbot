@@ -17,12 +17,6 @@ This is a simple AI-based chatbot built using Python, Tkinter for GUI, and pytts
 ---
 
 
----
 
-## 📂 Project Structure
-|
-|-intents.json
--chatbot.py
-#install requried libraries
 
 
